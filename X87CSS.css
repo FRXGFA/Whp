@@ -1,0 +1,17 @@
+* {
+    background: linear-gradient(90deg,
+            rgba(2, 0, 36, 1) 0%,
+            rgba(2, 6, 43, 1) 4%,
+            rgba(1, 96, 135, 1) 30%,
+            rgba(1, 109, 149, 1) 35%,
+            rgba(0, 164, 206, 1) 59%,
+            rgb(70, 87, 90) 95%);
+
+    font-family: comic sans ms;
+
+    color: #ffffff;
+}
+
+#img {
+    border-radius: 50px;
+}
